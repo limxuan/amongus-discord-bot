@@ -26,5 +26,5 @@
 This project is licensed under the Apache License 2.0 - see the [LICENSE](https://github.com/zhon12345/Tavern-Keeper/blob/master/LICENSE) file for details.
 
 ## 🎫 Additional Comments
-Have any questions about the bot, errors and more join the [support server](https://discord.gg/xCCpfth)!
+Have any questions about the bot, errors and more join the [support server](https://discord.gg/xCCpfth)! <br>
 Too hard for you? Just invite my bot, online 24/7 for more information [click here]()!
