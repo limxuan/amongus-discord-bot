@@ -18,12 +18,12 @@
 
 + [Watch my youtube video on how to set it up by clicking here](https://github.com/zhon12345/Tavern-Keeper#-about)
 + [Self Hosing](https://github.com/zhon12345/Tavern-Keeper#-self-hosting)
-+ [Support](https://github.com/zhon12345/Tavern-Keeper#%EF%B8%8F-support)
++ [Support](https://github.com/reconlx/amongus-discord-bot#-license)
 + [License](https://github.com/zhon12345/Tavern-Keeper#-license)
-+ [Vote](https://github.com/zhon12345/Tavern-Keeper#-vote)
++ Follow my [github](https://github.com/reconlx) for more cool content
 
 ## 📄 License
-This project is licensed under the Apache License 2.0 - see the [LICENSE](https://github.com/zhon12345/Tavern-Keeper/blob/master/LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](https://github.com/reconlx/amongus-discord-bot/blob/main/LICENCE) file for details.
 
 ## 🎫 Additional Comments
 Have any questions about the bot, errors and more join the [support server](https://discord.gg/xCCpfth)! <br>
