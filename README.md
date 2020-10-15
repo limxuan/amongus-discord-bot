@@ -17,8 +17,8 @@
 ## 📝 Table of Contents 
 
 + [Watch my youtube video on how to set it up by clicking here](https://github.com/zhon12345/Tavern-Keeper#-about)
-+ [Setting up the bot](https://github.com/zhon12345/Tavern-Keeper#-self-hosting)
-+ [Commands](https://github.com/reconlx/amongus-discord-bot#-license)
++ [Setting up the bot](https://github.com/reconlx/amongus-discord-bot/blob/main/README.md#-setting-up-the-bot)
++ [Commands](https://github.com/reconlx/amongus-discord-bot/blob/main/README.md#-commands)
 + [License](https://github.com/zhon12345/Tavern-Keeper#-license)
 + Follow my [github](https://github.com/reconlx) for more cool content
 
