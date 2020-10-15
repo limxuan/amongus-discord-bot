@@ -1,8 +1,8 @@
 const { prefix } = require('../../config.json')
-const dbs = require('../../db')
+
 const { MessageEmbed } = require('discord.js')
 module.exports = {
-    name : 'au-setup',
+    name : 'setup',
     description : '**Sets up** among us commands. (necessary)',
     run : async(client, message, args) => {
         const role = message.guild.roles.cache.find((r) => r.name === 'amongus-moderator')

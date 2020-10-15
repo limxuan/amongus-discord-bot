@@ -2,8 +2,8 @@ const { prefix } = require('../../config.json')
 
 const { MessageEmbed } = require('discord.js')
 module.exports = {
-    name: 'vote',
-    description: '**Undeafened** everyone in the voice chat.',
+    name: 'revive',
+    description: 'Used for making a player **alive**.',
     run: async (client, message, args) => {
         const role = message.guild.roles.cache.find((r) => r.name === 'amongus-moderator')
         //--------------------------------------------------------------------------------------------------------
@@ -13,17 +13,10 @@ module.exports = {
         )
         let channel = message.member.voice.channel;
         for (let member of channel.members.filter((member) => !member.user.bot)) {
-          await member[1].voice.setDeaf(false);
+            await member[1].voice.setDeaf(false).then(member[1].voice.setMute(false));
         }
+        message.channel.send('Reset Complete')
         message.react("760091234882027520");
-        message.channel.send(
-          new MessageEmbed()
-            .setTitle("Voting session")
-            .setTimestamp()
-            .setDescription("Who is the impostor?")
-            .setColor("RANDOM")
-            .setFooter('Created by recon#0001')
-        );
 
     }
 }
