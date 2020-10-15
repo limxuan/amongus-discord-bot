@@ -17,7 +17,7 @@ module.exports = {
           })
           message.channel.send(new MessageEmbed()
             .setTitle('AmongUs Setup Completed')
-            .setDescription('Command List')
+            .setDescription('Command List -> https://github.com/reconlx/amongus-discord-bot/').setColor('GREEN')
           )
         } else {
             message.channel.send('` Among-Us Role ` has already been created!')
