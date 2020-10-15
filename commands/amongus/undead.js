@@ -1,5 +1,4 @@
 const { prefix } = require('../../config.json')
-const dbs = require('../../db')
 const { MessageEmbed } = require('discord.js')
 module.exports = {
     name: 'au-revive',
