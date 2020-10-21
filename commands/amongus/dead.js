@@ -1,5 +1,5 @@
 const { Message } = require("discord.js");
-const { prefix } = require('../../config/config.json')
+const { prefix } = require('../../config.json')
 const { MessageEmbed } = require('discord.js')
 module.exports = {
   name: "dead",
