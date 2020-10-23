@@ -15,7 +15,5 @@ module.exports = {
             await member[1].voice.setDeaf(false).then(member[1].voice.setMute(false));
         }
         message.channel.send('Reset Complete')
-        message.react("760091234882027520");
-
     }
 }
