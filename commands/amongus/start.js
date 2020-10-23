@@ -15,7 +15,6 @@ module.exports = {
         for (let member of channel.members.filter((member) => !member.user.bot)) {
             await member[1].voice.setDeaf(true);
         }
-        message.react("760091234882027520");
         message.channel.send(
             new MessageEmbed()
                 .setTitle("The Game Starts!")
